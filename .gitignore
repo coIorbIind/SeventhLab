@@ -10,3 +10,5 @@ server/venv
 server/.idea
 server/logins.txt
 server/.env
+
+.idea
