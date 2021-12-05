@@ -1,0 +1,12 @@
+client/venv
+client/.idea
+
+
+hachaton
+vadick
+
+
+server/venv
+server/.idea
+server/logins.txt
+server/.env
