@@ -10,5 +10,8 @@ server/venv
 server/.idea
 server/logins.txt
 server/.env
+server/error_request.json
+server/success_request.json
+server/test.py
 
 .idea
